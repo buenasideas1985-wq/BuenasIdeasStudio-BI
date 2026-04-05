@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+.npm/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/dist/
+/build/
+
+# Test output
+/coverage/
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Next.js
+/.next/
+
+# React
+/public/static/
+
+# Local env files
+*.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Mac System files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
